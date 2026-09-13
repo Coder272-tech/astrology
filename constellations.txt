@@ -1,0 +1,32 @@
+Here is the identification and location breakdown of the **28 Mansions (Twenty-Eight Xiu)** in your provided image, listed by row from top to bottom, left to right, along with their matching details:
+
+| Image Position | Chinese Name | Pinyin | Modern Identifier Star | Western Symbol / Celestial Symbol |
+| --- | --- | --- | --- | --- |
+| **Row 1, #1** (Top Left) | 張 | Zhāng | υ¹ Hya (HIP 48356) | Vermillion Bird (South - Summer) |
+| **Row 1, #2** | 鬼 | Guǐ | θ Cnc (HIP 41822) | Vermillion Bird (South - Summer) |
+| **Row 1, #3** | 觜 | Zī | λ¹ Ori (HIP 26207) | White Tiger (West - Autumn) |
+| **Row 1, #4** | 胃 | Wèi | 35 Ari (HIP 12719) | White Tiger (West - Autumn) |
+| **Row 1, #5** | 壁 | Bì | γ Peg (HIP 1067) | Black Tortoise (North - Winter) |
+| **Row 1, #6** | 虛 | Xū | β Aqr (HIP 106278) | Black Tortoise (North - Winter) |
+| **Row 1, #7** | 角 | Jiǎo | α Vir (HIP 65474) | Azure Dragon (East - Spring) |
+| **Row 1, #8** (Far Right Top) | 心 | Xīn | σ Sco (HIP 80112) | Azure Dragon (East - Spring) |
+| **Row 2, #1** (Mid Left) | 翼 | Yì | α Crt (HIP 53740) | Vermillion Bird (South - Summer) |
+| **Row 2, #2** | 柳 | Liǔ | δ Hya (HIP 42313) | Vermillion Bird (South - Summer) |
+| **Row 2, #3** | 參 | Shēn | ζ¹ Ori (HIP 26727) | White Tiger (West - Autumn) |
+| **Row 2, #4** | 昴 | Mǎo | 17 Tau (HIP 17499) | White Tiger (West - Autumn) |
+| **Row 2, #5** | 奎 | Kuí | η And (HIP 4463) | White Tiger (West - Autumn) |
+| **Row 2, #6** | 危 | Wēi | α Aqr (HIP 109074) | Black Tortoise (North - Winter) |
+| **Row 2, #7** | 斗 | Dǒu | φ Sgr (HIP 92041) | Black Tortoise (North - Winter) |
+| **Row 2, #8** | 尾 | Wěi | μ¹ Sco (HIP 82514) | Azure Dragon (East - Spring) |
+| **Row 2, #9** | 亢 | Kàng | κ Vir (HIP 69427) | Azure Dragon (East - Spring) |
+| **Row 2, #10** (Far Right Mid) | 氐 | Dǐ | α² Lib (HIP 72622) | Azure Dragon (East - Spring) |
+| **Row 3, #1** | 牛 | Niú | β Cap (HIP 100345) | Black Tortoise (North - Winter) |
+| **Row 3, #2** (Far Right Mid-Low) | 房 | Fáng | π Sco (HIP 78265) | Azure Dragon (East - Spring) |
+| **Row 4, #1** (Bottom Left) | 軫 | Zhěn | γ Crv (HIP 59803) | Vermillion Bird (South - Summer) |
+| **Row 4, #2** | 星 | Xīng | α Hya (HIP 46390) | Vermillion Bird (South - Summer) |
+| **Row 4, #3** | 井 | Jǐng | μ Gem (HIP 30343) | Vermillion Bird (South - Summer) |
+| **Row 4, #4** | 畢 | Bì | ε Tau (HIP 20889) | White Tiger (West - Autumn) |
+| **Row 4, #5** | 婁 | Lóu | β Ari (HIP 8903) | White Tiger (West - Autumn) |
+| **Row 4, #6** | 室 | Shì | α Peg (HIP 113963) | Black Tortoise (North - Winter) |
+| **Row 4, #7** | 女 | Nǚ | ε Aqr (HIP 102618) | Black Tortoise (North - Winter) |
+| **Row 4, #8** (Bottom Right) | 箕 | Jī | γ² Sgr (HIP 88635) | Azure Dragon (East - Spring) |
